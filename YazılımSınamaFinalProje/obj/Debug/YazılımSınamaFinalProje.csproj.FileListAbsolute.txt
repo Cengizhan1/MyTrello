@@ -1,0 +1,14 @@
+C:\Users\Cengizhan\source\repos\YazılımSınamaFinalProje\YazılımSınamaFinalProje\bin\Debug\YazılımSınamaFinalProje.exe.config
+C:\Users\Cengizhan\source\repos\YazılımSınamaFinalProje\YazılımSınamaFinalProje\bin\Debug\YazılımSınamaFinalProje.exe
+C:\Users\Cengizhan\source\repos\YazılımSınamaFinalProje\YazılımSınamaFinalProje\bin\Debug\YazılımSınamaFinalProje.pdb
+C:\Users\Cengizhan\source\repos\YazılımSınamaFinalProje\YazılımSınamaFinalProje\bin\Debug\MetroFramework.dll
+C:\Users\Cengizhan\source\repos\YazılımSınamaFinalProje\YazılımSınamaFinalProje\obj\Debug\YazılımSınamaFinalProje.csprojAssemblyReference.cache
+C:\Users\Cengizhan\source\repos\YazılımSınamaFinalProje\YazılımSınamaFinalProje\obj\Debug\YazılımSınamaFinalProje.Form1.resources
+C:\Users\Cengizhan\source\repos\YazılımSınamaFinalProje\YazılımSınamaFinalProje\obj\Debug\YazılımSınamaFinalProje.Properties.Resources.resources
+C:\Users\Cengizhan\source\repos\YazılımSınamaFinalProje\YazılımSınamaFinalProje\obj\Debug\YazılımSınamaFinalProje.csproj.GenerateResource.cache
+C:\Users\Cengizhan\source\repos\YazılımSınamaFinalProje\YazılımSınamaFinalProje\obj\Debug\YazılımSınamaFinalProje.csproj.CoreCompileInputs.cache
+C:\Users\Cengizhan\source\repos\YazılımSınamaFinalProje\YazılımSınamaFinalProje\obj\Debug\YazılımSınamaFinalProje.csproj.CopyComplete
+C:\Users\Cengizhan\source\repos\YazılımSınamaFinalProje\YazılımSınamaFinalProje\obj\Debug\YazılımSınamaFinalProje.exe
+C:\Users\Cengizhan\source\repos\YazılımSınamaFinalProje\YazılımSınamaFinalProje\obj\Debug\YazılımSınamaFinalProje.pdb
+C:\Users\Cengizhan\source\repos\YazılımSınamaFinalProje\YazılımSınamaFinalProje\obj\Debug\YazılımSınamaFinalProje.TeknikKart.resources
+C:\Users\Cengizhan\source\repos\YazılımSınamaFinalProje\YazılımSınamaFinalProje\obj\Debug\YazılımSınamaFinalProje.Todo.resources
